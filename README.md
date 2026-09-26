@@ -7,11 +7,11 @@ This project demonstrates the process of importing employee data from a spreadsh
 
 8 Project Phases:
 
-Brainstorming & Ideation
-Requirement Analysis
-Project Design
-Project Planning
-Project Development
-Project Testing
-Project Documentation
-Project Demonstration
+1. Brainstorming & Ideation
+2. Requirement Analysis
+3. Project Design
+4. Project Planning
+5. Project Development
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
